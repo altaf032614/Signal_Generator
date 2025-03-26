@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SignalGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed74c6a4efdac60351aedbcce3b3bbd42647fbe1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SignalGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SignalGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

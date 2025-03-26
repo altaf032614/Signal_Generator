@@ -12,3 +12,4 @@ C:\gitrepos\Signal_Generator\SignalGenerator\obj\Debug\net9.0\refint\SignalGener
 C:\gitrepos\Signal_Generator\SignalGenerator\obj\Debug\net9.0\SignalGenerator.pdb
 C:\gitrepos\Signal_Generator\SignalGenerator\obj\Debug\net9.0\SignalGenerator.genruntimeconfig.cache
 C:\gitrepos\Signal_Generator\SignalGenerator\obj\Debug\net9.0\ref\SignalGenerator.dll
+C:\gitrepos\Signal_Generator\SignalGenerator\obj\Debug\net9.0\SignalGenerator.sourcelink.json
