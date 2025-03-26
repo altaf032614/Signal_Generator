@@ -1,0 +1,14 @@
+C:\gitrepos\Signal_Generator\SignalGenerator\bin\Debug\net9.0\SignalGenerator.exe
+C:\gitrepos\Signal_Generator\SignalGenerator\bin\Debug\net9.0\SignalGenerator.deps.json
+C:\gitrepos\Signal_Generator\SignalGenerator\bin\Debug\net9.0\SignalGenerator.runtimeconfig.json
+C:\gitrepos\Signal_Generator\SignalGenerator\bin\Debug\net9.0\SignalGenerator.dll
+C:\gitrepos\Signal_Generator\SignalGenerator\bin\Debug\net9.0\SignalGenerator.pdb
+C:\gitrepos\Signal_Generator\SignalGenerator\obj\Debug\net9.0\SignalGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitrepos\Signal_Generator\SignalGenerator\obj\Debug\net9.0\SignalGenerator.AssemblyInfoInputs.cache
+C:\gitrepos\Signal_Generator\SignalGenerator\obj\Debug\net9.0\SignalGenerator.AssemblyInfo.cs
+C:\gitrepos\Signal_Generator\SignalGenerator\obj\Debug\net9.0\SignalGenerator.csproj.CoreCompileInputs.cache
+C:\gitrepos\Signal_Generator\SignalGenerator\obj\Debug\net9.0\SignalGenerator.dll
+C:\gitrepos\Signal_Generator\SignalGenerator\obj\Debug\net9.0\refint\SignalGenerator.dll
+C:\gitrepos\Signal_Generator\SignalGenerator\obj\Debug\net9.0\SignalGenerator.pdb
+C:\gitrepos\Signal_Generator\SignalGenerator\obj\Debug\net9.0\SignalGenerator.genruntimeconfig.cache
+C:\gitrepos\Signal_Generator\SignalGenerator\obj\Debug\net9.0\ref\SignalGenerator.dll
